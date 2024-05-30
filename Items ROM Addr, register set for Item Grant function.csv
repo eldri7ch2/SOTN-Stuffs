@@ -1,0 +1,260 @@
+﻿ROM Addr,Hex Addr,Item Name,Item Number,R4,R5
+?????,0,Empty Hand,0,0,00
+B1110,1,Monster Vial 1,1,1,00
+B1144,2,Monster Vial 2,2,2,00
+B1178,3,Monster Vial 3,3,3,00
+B11AC,4,Shield Rod,4,4,00
+B11E0,5,Leather Shield,5,5,00
+B1214,6,Knight Shield,6,6,00
+B1248,7,Iron Shield,7,7,00
+B127C,8,AxeLord Shield,8,8,00
+B12B0,9,Herald Shield,9,9,00
+B12E4,A,Dark Shield,10,A,00
+B1318,B,Goddess Shield,11,B,00
+B134C,C,Shaman Shield,12,C,00
+B1380,D,Medusa Shield,13,D,00
+B13B4,E,Skull Shield,14,E,00
+B13E8,F,Fire Shield,15,F,00
+B141C,10,Alucard Shield,16,10,00
+B1450,11,Sword of Dawn,17,11,00
+B1484,12,Basilard,18,12,00
+B14B8,13,Short Sword,19,13,00
+B14EC,14,Combat Knife,20,14,00
+B1520,15,Nunchaku,21,15,00
+B1554,16,Were Bane,22,16,00
+B1588,17,Rapier,23,17,00
+B15BC,18,Karma Coin,24,18,00
+B1720,19,Magic Missile,25,19,00
+B1754,1A,Red Rust,26,1A,00
+B1788,1B,Takemitsu,27,1B,00
+B17BC,1C,Shotel,28,1C,00
+B17F0,1D,Orange,29,1D,00
+B1824,1E,Apple,30,1E,00
+B1858,1F,Banana,31,1F,00
+B188C,20,Grapes,32,20,00
+B18C0,21,Strawberry,33,21,00
+B18F4,22,Pineapple,34,22,00
+B1928,23,Peanuts,35,23,00
+B195C,24,Toadstool,36,24,00
+B1990,25,Shiitake,37,25,00
+B19C4,26,Cheesecake,38,26,00
+B19F8,27,Shortcake,39,27,00
+B1A2C,28,Tart,40,28,00
+B1A60,29,Parfait,41,29,00
+B1A94,2A,Pudding,42,2A,00
+B1AC8,2B,Ice cream,43,2B,00
+B1AFC,2C,Frankfurter,44,2C,00
+B1B30,2D,Hamburger,45,2D,00
+B1B64,2E,Pizza,46,2E,00
+B1B98,2F,Cheese,47,2F,00
+B1BCC,30,Ham and eggs,48,30,00
+B1C00,31,Omelette,49,31,00
+B1C34,32,Morning set,50,32,00
+B1C68,33,Lunch A,51,33,00
+B1C9C,34,Lunch B,52,34,00
+B1CD0,35,Curry rice,53,35,00
+B1D04,36,Gyros plate,54,36,00
+B1D38,37,Spaghetti,55,37,00
+B1D6C,38,Grape juice,56,38,00
+B1DA0,39,Barley tea,57,39,00
+B1DD4,3A,Green tea,58,3A,00
+B1E08,3B,Natou,59,3B,00
+B1E3C,3C,Ramen,60,3C,00
+B1E70,3D,Miso soup,61,3D,00
+B1EA4,3E,Sushi,62,3E,00
+B1ED8,3F,Pork bun,63,3F,00
+B203C,40,Red bean bun,64,40,00
+B2070,41,Chinese bun,65,41,00
+B20A4,42,Dim Sum set,66,42,00
+B20D8,43,Pot roast,67,43,00
+B210C,44,Sirlion,68,44,00
+B2140,45,Turkey,69,45,00
+B2174,46,Meal ticket,70,46,00
+B21A8,47,Neutron bomb,71,47,00
+B21DC,48,Power of sire,72,48,00
+B2210,49,Pentagram,73,49,00
+B2244,4A,Bat pentagram,74,4A,00
+B2278,4B,Shuriken,75,4B,00
+B22AC,4C,Cross shuriken,76,4C,00
+B22E0,4D,Buffalo star,77,4D,00
+B2314,4E,Flame star,78,4E,00
+B2348,4F,TNT,79,4F,00
+B237C,50,Bwaka knife,80,50,00
+B23B0,51,Boomerang,81,51,00
+B23E4,52,Javelin,82,52,00
+B2418,53,Tyrfing,83,53,00
+B244C,54,Namakura,84,54,00
+B2480,55,Knuckle duster,85,55,00
+B24B4,56,Gladius,86,56,00
+B24E8,57,Scimitar,87,57,00
+B251C,58,Cutlass,88,58,00
+B2550,59,Saber,89,59,00
+B2584,5A,Falchion,90,5A,00
+B25B8,5B,Broadsword,91,5B,00
+B25EC,5C,Bekatowa,92,5C,00
+B2620,5D,Damascus sword,93,5D,00
+B2654,5E,Hunter sword,94,5E,00
+B2688,5F,Estoc,95,5F,00
+B26BC,60,Bastard sword,96,60,00
+B26F0,61,Jewel knuckles,97,61,00
+B2724,62,Claymore,98,62,00
+B2758,63,Talwar,99,63,00
+B278C,64,Katana,100,64,00
+B27C0,65,Flamberge,101,65,00
+B27F4,66,Iron Fist,102,66,00
+B2828,67,Zwei hander,103,67,00
+B298C,68,Sword of Hador,104,68,00
+B29C0,69,Luminus,105,69,00
+B29F4,6A,Harper,106,6A,00
+B2A28,6B,Obsidian sword,107,6B,00
+B2A5C,6C,Gram,108,6C,00
+B2A90,6D,Jewel sword,109,6D,00
+B2AC4,6E,Mormegil,110,6E,00
+B2AF8,6F,Firebrand,111,6F,00
+B2B2C,70,Thunderbrand,112,70,00
+B2B60,71,Icebrand,113,71,00
+B2B94,72,Stone Sword,114,72,00
+B2BC8,73,Holy Sword,115,73,00
+B2BFC,74,Terminus Est,116,74,00
+B2C30,75,Marsil,117,75,00
+B2C64,76,Dark Blade,118,76,00
+B2C98,77,Heaven Sword,119,77,00
+B2CCC,78,Fist of Tulkas,120,78,00
+B2D00,79,Gurthang,121,79,00
+B2D34,7A,Mourneblade,122,7A,00
+B2D68,7B,Alucard sword,123,7B,00
+B2D9C,7C,Mablung Sword,124,7C,00
+B2DD0,7D,Badelaire,125,7D,00
+B2E04,7E,Sword Familiar,126,7E,00
+B2E38,7F,Great Sword,127,7F,00
+B2E6C,80, Mace,128,80,00
+B2EA0,81, Morningstar,129,81,00
+B2ED4,82, Holy Rod,130,82,00
+B2F08,83, Star Flail,131,83,00
+B2F3C,84, Moon Rod,132,84,00
+B2F70,85, Chakram,133,85,00
+B2FA4,86, Fire Boomerang,134,86,00
+B2FD8,87, Iron Ball,135,87,00
+B300C,88, Holbein dagger,136,88,00
+B3040,89, Blue knuckle,137,89,00
+B3074,8A , Dynamite,138,8A,00
+B30A8,8B , Osafune Katana,139,8B,00
+B30DC,8C , Masamune,140,8C,00
+B3110,8D , Muramasa,141,8D,00
+B3144,8E , Heart Refresh,142,8E,00
+B32A8,8F , Runesword,143,8F,00
+B32DC,90, Antivenom,144,90,00
+B3310,91, Uncurse,145,91,00
+B3344,92, Life Apple,146,92,00
+B3378,93, Hammer,147,93,00
+B33AC,94, Str. potion,148,94,00
+B33E0,95, Luck Potion,149,95,00
+B3414,96, Smart Potion,150,96,00
+B3448,97, Atk Potion,151,97,00
+B347C,98, Shield Potion,152,98,00
+B34B0,99, Resist Fire,153,99,00
+B34E4,9A , Resis Thunder,154,9A,00
+B3518,9B , Resist Ice,155,9B,00
+B354C,9C , Resist Stone,156,9C,00
+B3580,9D , Resist Holy ,157,9D,00
+B35B4,9E , Resist Dark,158,9E,00
+B35E8,9F , Potion,159,9F,00
+B361C,A0 , High Potion,160,A0,00
+B3650,A1 , Elixir,161,A1,00
+B3684,A2 , Manna prism,162,A2,00
+B36B8,A3 , Vorpal Blade,163,A3,00
+B36EC,A4 , Crissaegrim,164,A4,00
+B3720,A5 , Yasutsuna,165,A5,00
+B3754,A6 , Library Card,166,A6,00
+B3788,A7 , Alucart Shield,167,A7,00
+B37BC,A8 , Alucart Sword,168,A8,00
+B37F0,A9 , No Armor,0,0,01
+B3824,AA , Cloth tunic,1,1,01
+B3858,AB , Hide cuirass,2,2,01
+B388C,AC , Bronze cuirass,3,3,01
+B38C0,AD , Iron cuirass,4,4,01
+B38F4,AE , Steel cuirass,5,5,01
+B3928,AF , Silver Plate,6,6,01
+B395C,B0 , Gold Plate,7,7,01
+B3990,B1 , Platinum Mail,8,8,01
+B39C4,B2 , Diamond PLate,9,9,01
+B39F8,B3 , Fire Mail,10,A,01
+B3A2C,B4 , Lightning mail,11,B,01
+B3A60,B5 , Ice mail,12,C,01
+B3A94,B6 , Mirror cuirass,13,D,01
+B3BF8,B7 , Spike Breaker,14,E,01
+B3C2C,B8 , Alucard Mail,15,F,01
+B3C60,B9 , Dark armor,16,10,01
+B3C94,BA , Healing mail,17,11,01
+B3CC8,BB , Holy Mail,18,12,01
+B3CFC,BC , Walk armor,19,13,01
+B3D30,BD , Brilliant mail,20,14,01
+B3D64,BE , Mojo mail,21,15,01
+B3D98,BF , Fury Plate,22,16,01
+B3DCC,C0 , Dracula tunic,23,17,01
+B3E00,C1 , God's Garb,24,18,01
+B3E34,C2 , Axe Lord armor,25,19,01
+B3E68,C3 , Empty Head,26,1A,01
+B3E9C,C4 , Sunglasses,27,1B,01
+B3ED0,C5 , Ballroom mask,28,1C,01
+B3F04,C6 , Bandanna,29,1D,01
+B3F38,C7 , Felt hat,30,1E,01
+B3F6C,C8 , Velvet hat,31,1F,01
+B3FA0,C9 , Goggles,32,20,01
+B3FD4,CA , Leather hat,33,21,01
+B4008,CB , Holy glasses,34,22,01
+B403C,CC , Steel helm,35,23,01
+B4070,CD , Stone mask,36,24,01
+B40A4,CE , Circlet,37,25,01
+B40D8,CF , Gold circlet,38,26,01
+B410C,D0 , Ruby circlet,39,27,01
+B4140,D1 , Opal circlet,40,28,01
+B4174,D2 , Topaz circlet,41,29,01
+B41A8,D3 , Beryl circlet,42,2A,01
+B41DC,D4 , Cat-eye Circlet,43,2B,01
+B4210,D5 , Coral circlet,44,2C,01
+B4244,D6 , Dragon helm,45,2D,01
+B4278,D7 , Silver crown,46,2E,01
+B42AC,D8 , Wizard hat,47,2F,01
+B42E0,D9 , No Cape,48,30,01
+B4314,DA , Cloth cape,49,31,01
+B4348,DB , Reverse cloak,50,32,01
+B437C,DC , Elven cloak,51,33,01
+B43B0,DD , Crystal cloak,52,34,01
+B4514,DE , Royal cloak,53,35,01
+B4548,DF , Blood cloak,54,36,01
+B457C,E0 , Joseph's cloak,55,37,01
+B45B0,E1 , Twilight cloak,56,38,01
+B45E4,E2 , No Accessory,57,39,01
+B4618,E3 , Moonstone,58,3A,01
+B464C,E4 , Sunstone,59,3B,01
+B4680,E5 , Bloodstone,60,3C,01
+B46B4,E6 , Staurolite,61,3D,01
+B46E8,E7 , Ring of Pales,62,3E,01
+B471C,E8 , Zircon,63,3F,01
+B4750,E9 , Aquamarine,64,40,01
+B4784,EA , Turquoise,65,41,01
+B47B8,EB , Onyx,66,42,01
+B47EC,EC , Garnet,67,43,01
+B4820,ED , Opal,68,44,01
+B4854,EE , Diamond,69,45,01
+B4888,EF , Lapis lazuli,70,46,01
+B48BC,F0 , Ring of Ares,71,47,01
+B48F0,F1 , Gold Ring,72,48,01
+B4924,F2 , Silver Ring,73,49,01
+B4958,F3 , Ring of Varda,74,4A,01
+B498C,F4 , Ring of Arcana,75,4B,01
+B49C0,F5 , Mystic pendant,76,4C,01
+B49F4,F6 , Heart Broach,77,4D,01
+B4A28,F7 , Necklace of J,78,4E,01
+B4A5C,F8 , Gauntlet,79,4F,01
+B4A90,F9 , Ankh of Life,80,50,01
+B4AC4,FA , Ring of Feanor,81,51,01
+B4AF8,FB , Medal,82,52,01
+B4B2C,FC , Talisman,83,53,01
+B4B60,FD , Duplicator,84,54,01
+B4B94,FE , King's stone,85,55,01
+B4BC8,FF , Covenant Stone,86,56,01
+B4BFC,100,Nauglamir,87,57,01
+B4C30,101,Secret boots,88,58,01
+B4C64,102,Alucart Mail,89,59,01
